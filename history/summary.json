@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 100,
-    "timeDay": 81,
-    "timeWeek": 112,
-    "timeMonth": 97,
+    "timeDay": 51,
+    "timeWeek": 105,
+    "timeMonth": 96,
     "timeYear": 100,
     "dailyMinutesDown": {
       "2022-01-07": 17
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 237,
-    "timeDay": 166,
-    "timeWeek": 167,
-    "timeMonth": 221,
+    "timeDay": 156,
+    "timeWeek": 162,
+    "timeMonth": 211,
     "timeYear": 237,
     "dailyMinutesDown": {}
   },
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 332,
-    "timeDay": 214,
-    "timeWeek": 285,
-    "timeMonth": 304,
+    "timeDay": 379,
+    "timeWeek": 277,
+    "timeMonth": 305,
     "timeYear": 332,
     "dailyMinutesDown": {
       "2021-11-29": 18
@@ -82,17 +82,16 @@
     "slug": "funnels-rocks",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1311,
-    "timeDay": 834,
-    "timeWeek": 1181,
-    "timeMonth": 1303,
+    "timeDay": 922,
+    "timeWeek": 1176,
+    "timeMonth": 1299,
     "timeYear": 1311,
     "dailyMinutesDown": {
-      "2022-02-22": 6,
       "2021-07-15": 19
     }
   }
