@@ -80,18 +80,19 @@
     "url": "https://funnels.rocks",
     "icon": "https://favicons.githubusercontent.com/funnels.rocks",
     "slug": "funnels-rocks",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1311,
-    "timeDay": 1016,
-    "timeWeek": 1257,
-    "timeMonth": 1311,
-    "timeYear": 1311,
+    "time": 1309,
+    "timeDay": 865,
+    "timeWeek": 1189,
+    "timeMonth": 1291,
+    "timeYear": 1309,
     "dailyMinutesDown": {
+      "2022-03-23": 0,
       "2021-07-15": 19
     }
   }
