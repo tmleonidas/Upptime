@@ -4,18 +4,20 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 103,
-    "timeDay": 104,
-    "timeWeek": 152,
-    "timeMonth": 122,
-    "timeYear": 108,
-    "dailyMinutesDown": {}
+    "time": 104,
+    "timeDay": 329,
+    "timeWeek": 192,
+    "timeMonth": 135,
+    "timeYear": 110,
+    "dailyMinutesDown": {
+      "2023-09-07": 0
+    }
   },
   {
     "name": "Wikipedia",
@@ -41,7 +43,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "hacker-news",
     "status": "up",
-    "uptime": "99.95%",
+    "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
