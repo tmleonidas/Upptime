@@ -97,19 +97,19 @@
     "url": "https://funnels.rocks",
     "icon": "https://icons.duckduckgo.com/ip3/funnels.rocks.ico",
     "slug": "funnels-rocks",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1121,
-    "timeDay": 2099,
-    "timeWeek": 1356,
-    "timeMonth": 1091,
-    "timeYear": 1130,
+    "timeDay": 1731,
+    "timeWeek": 1315,
+    "timeMonth": 1088,
+    "timeYear": 1129,
     "dailyMinutesDown": {
-      "2024-09-11": 0
+      "2024-09-11": 5
     }
   }
 ]
